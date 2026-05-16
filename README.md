@@ -12,4 +12,8 @@ Features:
 - Transfer/payment sections
 - Clean modern UI
 
+  Screens:
+  <img width="8003" height="860" alt="LEVEL 2 TASK 3 (1)" src="https://github.com/user-attachments/assets/f94456f5-9497-4ed2-97e9-9a77e6f17f1d" />
+
+
 Designed by: Christi Maria
